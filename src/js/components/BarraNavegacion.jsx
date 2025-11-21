@@ -3,7 +3,7 @@ import React from "react";
 function BarraNavegacion() {
     return (
         <nav className="navbar navbar-expand-lg bg-dark bg-gradient">
-            <div className="container d-flex justify-content-beetwen">
+            <div className="container d-flex justify-content-between">
                 <div className="">
 
                     <a className="navbar-brand text-light" href="#">Start Bootstrap</a>
